@@ -1,5 +1,0 @@
-#!/bin/sh
-# Starts a lokal jekyll server so you can
-# run and test the crisp-dna site locally
-# on http://localhost:4000
-jekyll serve
