@@ -1,0 +1,11 @@
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+collections:
+  docs:
+    output: true
+company_name: "Red Hat Open Innovation Labs"
+google_analytics_tracker_code: "UA-"
