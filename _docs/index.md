@@ -38,4 +38,4 @@ Supporting practices
 Meta
 ----
 
--   [How to clone the Crisp DNA](how-to-copy.html)
+-   [How to clone this site](how-to-copy.html)
