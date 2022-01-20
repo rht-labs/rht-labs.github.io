@@ -43,7 +43,12 @@ The employee net promoter score (eNPS) is based on the question:
 Survey Details
 -------------------
 ![happiness-culture-2021.jpg](../images/happiness-culture-2021.jpg)
+[interactive version](https://docs.google.com/spreadsheets/d/e/2PACX-1vTenX00Cf3_ZU5i2CEJjRfTFbHPQGaU3Y3GzR-yI0y3z1zPvcaH6UA7Lq6kK3P7y7P9BPYeKYufw9cg/pubchart?oid=1624428586&format=interactive)
+
 ![happiness-mgmt-2021.jpg](../images/happiness-mgmt-2021.jpg)
+[interactive version](https://docs.google.com/spreadsheets/d/e/2PACX-1vTenX00Cf3_ZU5i2CEJjRfTFbHPQGaU3Y3GzR-yI0y3z1zPvcaH6UA7Lq6kK3P7y7P9BPYeKYufw9cg/pubchart?oid=42700771&format=interactive)
+
+
 
 Other Measures
 --------------
@@ -53,13 +58,7 @@ We also use tools like cognitive-load-o-meter, mood marbles, fist-of-five, and o
 
 Sources of inspiration
 ----------------------
-Our pursuit of employee satisfaction is inspired by sources including:
-* [Drive, The Surprising Truth About What Motivates Us, by Daniel Pink] (https://www.danpink.com/books/drive/)
-* [Henrik Kniberg's blog and video on Spotify Engineering Culture] (https://youtu.be/Yvfz4HGtoPc?t=401)
-* [Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency, by Tom DeMarco] (https://www.amazon.com/Slack-Getting-Burnout-Busywork-Efficiency/dp/0767907698) 
-
-
-
-
-
-
+Our pursuit of employee satisfaction is inspired by many sources, notably including:
+* [Drive, The Surprising Truth About What Motivates Us, by Daniel Pink](https://www.danpink.com/books/drive/)
+* [Henrik Kniberg's blog and video on Spotify Engineering Culture](https://youtu.be/Yvfz4HGtoPc?t=401)
+* [Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency, by Tom DeMarco](https://www.amazon.com/Slack-Getting-Burnout-Busywork-Efficiency/dp/0767907698) 
