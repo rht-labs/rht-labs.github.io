@@ -54,7 +54,7 @@ export PATH="$HOME/.rbenv/bin:$PATH"
 eval "$(rbenv init - bash)"
 ```
 
-Change to this reposisitory and install the ruby environment - `rbenv` used by this repo's `.ruby-version`
+Change your directory to this repository, and install the ruby environment - `rbenv` used by this repo's `.ruby-version`
 
 ```bash
 rbenv install
