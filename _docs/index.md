@@ -33,7 +33,7 @@ Supporting practices
 
 (relevant stuff, but not core to our model)
 
--   [Email conventions](email-conventions.html) - how we get transparency without information overflow
+-   [Email conventions](product-mindset.html) - how we use the product mentality to grow our business
 
 Meta
 ----
