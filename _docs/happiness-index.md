@@ -1,7 +1,7 @@
 ---
 title: Happiness Index
 prev_section: how-roil-works.html
-next_section: email-conventions.html
+next_section: product-mindset.html
 ---
 
 Employee Satisfaction
