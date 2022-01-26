@@ -1,6 +1,6 @@
 ---
 title: "How to clone this"
-prev_section: email-conventions.html
+prev_section: product-mindset.html
 next_section: 
 ---
 
