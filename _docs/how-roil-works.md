@@ -1,7 +1,7 @@
 ---
 title: How Red Hat Open Innovation Labs works
 prev_section: what-is-rh-open-innovation-labs.html
-next_section: happiness-index.html
+next_section: labs-principles.html
 ---
 
 How We Work
