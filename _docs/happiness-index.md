@@ -1,6 +1,6 @@
 ---
 title: Happiness Index
-prev_section: labs-principles.html
+prev_section: what-we-do.html
 next_section: product-mindset.html
 ---
 
