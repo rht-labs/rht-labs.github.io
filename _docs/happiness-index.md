@@ -1,13 +1,13 @@
 ---
 title: Happiness Index
-prev_section: how-roil-works.html
+prev_section: labs-principles.html
 next_section: product-mindset.html
 ---
 
 Employee Satisfaction
 ===============
 
-**Labs Strategic Pillar #1: By committing to a continuous pursuit of job satisfaction for our staff, we'll maintain a healthy organization capable of executing our mission.**
+> **Labs Strategic Pillar #1:** By committing to a continuous pursuit of job satisfaction for our staff, we'll maintain a healthy organization capable of executing our mission.
 
 Why is this important?
 --------------------------
