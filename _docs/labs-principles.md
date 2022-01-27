@@ -1,6 +1,7 @@
 ---
 title: Red Hat Open Innovation Labs Principles
 prev_section: how-roil-works.html
+next_section: happiness-index.html
 ---
 
 What are our Principles?
