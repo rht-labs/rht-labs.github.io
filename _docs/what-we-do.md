@@ -11,7 +11,7 @@ We provide a number of services-based products to Red Hat customers with a missi
 
 Our flagship product is called the Labs Residency - a 4-12 week timeboxed, immersive engagement.
 
-To support our customers on their journeys, we also provide enabling products to customers including DevOps Culture and Practice Enablement (TL500).
+To support our customers on their journeys, we also provide enabling products to customers including DevOps Culture and Practice Enablement [TL500](https://www.redhat.com/en/services/training/do500-devops-culture-and-practice-enablement).
 
 Open Innovation Labs provides internal capability and enablement to evolve the way Red Hat delivers and to bring new practices to our Consultants' way of working using:
 
@@ -27,7 +27,7 @@ Open Innovation Labs provides internal capability and enablement to evolve the w
 What is a Labs Residency?
 --------------------------
 
-A transformational Red Hat Services format led by Open Innovation Labs, focused on inspiring change in organizations on the path of adopting DevOps mindset and building long-lived, cross-functional product teams using Red Hat technology.
+A transformational [Red Hat Services](https://www.redhat.com/en/services/consulting/open-innovation-labs) format led by Open Innovation Labs, focused on inspiring change in organizations on the path of adopting DevOps mindset and building long-lived, cross-functional product teams using Red Hat technology.
 
 Engagements are focused on all of the following:
 
