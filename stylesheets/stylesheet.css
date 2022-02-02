@@ -633,7 +633,7 @@ form {
 
 #main-content h1:before {
   content: "/";
-  color: #9ddcff;
+  color: #999988;
   padding-right: 0.3em;
   margin-left: -0.9em;
 }
@@ -648,7 +648,7 @@ form {
 }
 #main-content h2:before {
   content: "//";
-  color: #9ddcff;
+  color: #999988;
   padding-right: 0.3em;
   margin-left: -1.5em;
 }
@@ -665,7 +665,7 @@ form {
 
 #main-content h3:before {
   content: "///";
-  color: #9ddcff;
+  color: #999988;
   padding-right: 0.3em;
   margin-left: -2em;
 }
@@ -681,7 +681,7 @@ form {
 
 h4:before {
   content: "////";
-  color: #9ddcff;
+  color: #999988;
   padding-right: 0.3em;
   margin-left: -2.8em;
 }
@@ -695,7 +695,7 @@ h4:before {
 }
 h5:before {
   content: "/////";
-  color: #9ddcff;
+  color: #999988;
   padding-right: 0.3em;
   margin-left: -3.2em;
 }
@@ -709,7 +709,7 @@ h5:before {
 }
 h6:before {
   content: "//////";
-  color: #9ddcff;
+  color: #999988;
   padding-right: 0.3em;
   margin-left: -3.7em;
 }
@@ -842,7 +842,7 @@ footer a:hover {
     text-align: center;
     font-size: 13px;
     line-height: 1;
-    background-color: #9ddcff;
+    background-color: #999988;
     color: #2879d0;
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
