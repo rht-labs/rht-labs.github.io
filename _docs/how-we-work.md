@@ -14,4 +14,4 @@ We believe the team is the engine driving better outcomes.  We aim to foster lon
 
 We believe teams are most effective when they are empowered to focus on delivering tangible value for real people, and involved in the decision making of what to build, and why to build it, not just how to build it, by when.
 
-> Take a team first approach to the work and [Start with "Why?"] (https://openpracticelibrary.com/practice/start-with-why/). 
+> Take a team first approach to the work and [Start with "Why?"](https://openpracticelibrary.com/practice/start-with-why/). 
