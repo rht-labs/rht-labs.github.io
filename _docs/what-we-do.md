@@ -7,7 +7,7 @@ next_section: happiness-index.html
 What we do
 ==========
 
-We provide a number of services-based products to Red Hat customers with a mission to accelerate the delivery of their innovative ideas, and create infectious enthusiasm for building applications the Red Hat way, by leveraging community-powered innovation to deliver an outstanding labs experience. With these offerings our overall vision is to empower our customers to deliver the most innovative software success stories of the 21st century.
+We provide a number of services-based products to Red Hat customers with a mission to accelerate delivery of their innovative ideas, and create infectious enthusiasm for building applications the Red Hat way, by leveraging community-powered innovation to deliver an outstanding labs experience. With these offerings our overall vision is to empower our customers to deliver the most innovative software success stories of the 21st century.
 
 Our flagship product is called the Labs Residency - a 4-12 week timeboxed, immersive engagement.
 
@@ -16,10 +16,10 @@ To support our customers on their journeys, we also provide enabling products to
 Open Innovation Labs provides internal capability and enablement to evolve the way Red Hat delivers and to bring new practices to our Consultants' way of working using:
 
 - DevOps Culture and Practice Enablement
-- Open Leadership Training and Coaching
-- Site Reliability Engineering Enablement
+- Open Leadership training and coaching
+- Site Reliability Engineering enablement
 - Maintenance of the platform tools including the [Open Practice Library](https://openpracticelibrary.com), [Lodestar](https://lodestar.rht-labs.com) and [Ubiquitous Journey](http://rht-labs.com/ubiquitous-journey)
-- Contributions and support to Red Hat's Communities of Practice
+- Contributing to and supporting Red Hat's Communities of Practice
 - Running experiments to improve delivery capability
 - Providing internal strategy consultants
   
@@ -31,11 +31,11 @@ A transformational [Red Hat Services](https://www.redhat.com/en/services/consult
 
 Engagements are focused on all of the following:
 
-- Achieving Business Outcomes (through a concrete product being developed)
-- Forming Product Teams
-- Establishing DevOps culture and a Cloud-Native Organization
+- Achieving business outcomes (through the development of a concrete product)
+- Forming product teams
+- Establishing DevOps culture and a cloud-native organization
 
-i.e. Product Teams achieving Business Outcomes through living DevOps culture while developing an important product (application, platform, etc.)
+i.e. Product Teams achieving business outcomes through living DevOps culture while developing an important product (application, platform, etc.)
 
 
 Who is a Labs Residency best suited for?
@@ -79,7 +79,7 @@ Differentiating unique features as opposed to other alternatives which customers
 
 - Our purpose is to enable our customers to retain their independence
 - Open Organization Culture & Open Leadership
-- A sticky open source Product Development Framework ([Möbius Loop](www.mobiusloop.com)) recognized by Agile and product management thought leaders across the globe
+- A sticky open source Product Development Framework ([Möbius Loop](https://www.mobiusloop.com)) recognized by Agile and product management thought leaders across the globe
 - Open Innovation & Co-innovation on a significant business challenge
 - Open Source Technology
 - 1-on-1 matching & collaboration of customer's team with the best of Red Hat architects & engineers
