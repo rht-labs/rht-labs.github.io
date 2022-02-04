@@ -1,0 +1,53 @@
+@font-face {
+	font-family: Stem Text;
+	font-display: swap;
+	src: url(/front/subset-StemText-Regular-e686be9.woff2) format("woff2"), url(/front/subset-StemText-Regular-3e5ba09.woff) format("woff")
+}
+
+@font-face {
+	font-family: Stem Text;
+	font-weight: 700;
+	font-display: swap;
+	src: url(/front/subset-StemText-Bold-06f9cff.woff2) format("woff2"), url(/front/subset-StemText-Bold-72453e7.woff) format("woff")
+}
+
+@font-face {
+	font-family: Stem Light;
+	font-display: block;
+	src: url(/front/subset-Stem-Light-02dce3f.woff2) format("woff2"), url(/front/subset-Stem-Light-a3e40b5.woff) format("woff")
+}
+
+@font-face {
+	font-family: Stem Text;
+	font-style: italic;
+	font-display: swap;
+	src: url(/front/subset-StemText-Italic-80bb918.woff2) format("woff2"), url(/front/subset-StemText-Italic-42a1a9e.woff) format("woff")
+}
+
+@font-face {
+	font-family: Stem Text;
+	font-weight: 700;
+	font-style: italic;
+	font-display: swap;
+	src: url(/front/subset-StemText-BoldItalic-f83954f.woff2) format("woff2"), url(/front/subset-StemText-BoldItalic-bdf10ff.woff) format("woff")
+}
+
+@font-face {
+	font-family: Stem Light;
+	font-style: italic;
+	font-display: block;
+	src: url(/front/subset-Stem-LightItalic-353fc13.woff2) format("woff2"), url(/front/subset-Stem-LightItalic-24438f4.woff) format("woff")
+}
+
+@font-face {
+	font-family: Stem Light;
+	font-weight: 700;
+	font-display: block;
+	src: url(/front/subset-Stem-Medium-6129e8f.woff2) format("woff2"), url(/front/subset-Stem-Medium-acfac7a.woff) format("woff")
+}
+
+@font-face {
+	font-family: Fira Code;
+	font-display: swap;
+	src: url(/front/subset-FiraCode-Regular-12acbe0.woff2) format("woff2"), url(/front/subset-FiraCode-Regular-6de919a.woff) format("woff")
+}
