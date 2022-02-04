@@ -214,7 +214,7 @@ a:hover {
 	height: 4.166666666666667vw;
 	margin: 6px;
 	font-size: 0;
-	background-image: url(/images/favicon.ico);
+	background-image: url(../images/favicon.ico);
 	background-size: 100%;
 	opacity: 0;
 	-webkit-transition-duration: .2s;
