@@ -15,4 +15,4 @@ Checkout the presentation, video and resources here: [Red Hat's developer corner
 
 📽️ _Click the image to watch the video_ 📽️
 
-[![../images/dvo-cover.png](../images/dvo-cover.png)](https://youtu.be/tacoj9Pu3_Y)
+[![../images/dvo-cover.png](../images/dvo-cover.png)](https://youtu.be/Ce8hbrRG8qU)
