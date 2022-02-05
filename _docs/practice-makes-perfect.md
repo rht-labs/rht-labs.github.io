@@ -1,7 +1,5 @@
 ---
 title: Practice Makes Perfect
-prev_section: ../stories.html
-next_section: index.html
 ---
 
 Practice Makes Perfect
