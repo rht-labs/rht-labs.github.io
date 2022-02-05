@@ -1,7 +1,7 @@
 ---
 title: "What is Red Hat Open Innovation Labs?"
 prev_section: index.html
-next_section: how-roil-works.html
+next_section: how-we-work.html
 ---
 
 What is Red Hat Open Innovation Labs, and why?
