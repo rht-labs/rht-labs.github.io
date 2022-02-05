@@ -13,4 +13,6 @@ In this session of Red Hat’s developer corner, you’ll have the opportunity t
 
 Checkout the presentation, video and resources here: [Red Hat's developer corner - Session 4: DevOps with OpenSift - Practice makes perfect](https://tracks.redhat.com/l/cy_21_q3_na_cn_devel).
 
+📽️ _Click the image to watch the video_ 📽️
+
 [![../images/dvo-cover.png](../images/dvo-cover.png)](https://youtu.be/tacoj9Pu3_Y)
