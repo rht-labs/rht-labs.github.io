@@ -11,6 +11,6 @@ Curriki collaborated with Red Hat Open Innovation Labs experts to optimize their
 
 📽️ _Click the image to watch the video_ 📽️
 
-[![../images/curriki-case-study.svg](../images/curriki-case-study.svg)](https://www.youtube.com/watch?v=RTYh6qcIh48)
+<a href="https://www.youtube.com/watch?v=RTYh6qcIh48" target="_blank"><img src="../images/curriki-case-study.svg" alt="../images/curriki-case-study.svg" /></a>
 
-📖 [_Read more about the case study_](https://www.redhat.com/en/success-stories/curriki) 📖
+📖 <a href="https://www.redhat.com/en/success-stories/curriki" target="_blank">_Read more about the case study_</a> 📖
