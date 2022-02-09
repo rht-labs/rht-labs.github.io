@@ -53,13 +53,6 @@
               }
 
               function S() {
-                  var t = d(),
-                      n = _(t);
-                  if (r = arguments, i = this, u = t, n) {
-                      if (void 0 === s) return b(u);
-                      if (p) return s = setTimeout(w, e), y(u)
-                  }
-                  return void 0 === s && (s = setTimeout(w, e)), a
               }
               return e = g(e) || 0, m(n) && (l = !!n.leading, o = (p = "maxWait" in n) ? h(g(n.maxWait) || 0, e) : o, v = "trailing" in n ? !!n.trailing : v), S.cancel = function() {
                   void 0 !== s && clearTimeout(s), c = 0, r = u = i = s = void 0
