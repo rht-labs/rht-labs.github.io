@@ -1,6 +1,6 @@
 ---
 title: Red Hat Open Innovation Labs Principles
-prev_section: how-roil-works.html
+prev_section: how-we-work.html
 next_section: what-we-do.html
 ---
 
