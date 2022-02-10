@@ -51,7 +51,7 @@ Set in your environment:
 ```bash
 # ruby
 export PATH="$HOME/.rbenv/bin:$PATH"
-eval "$(rbenv init - bash)"
+eval "$(rbenv init - /bin/bash)"
 ```
 
 Change your directory to this repository, and install the ruby environment - `rbenv` used by this repo's `.ruby-version`
