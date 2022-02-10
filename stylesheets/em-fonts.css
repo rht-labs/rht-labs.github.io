@@ -1,0 +1,53 @@
+@font-face {
+	font-family: Stem Text;
+	font-display: swap;
+	src: url(../front/subset-StemText-Regular.woff2) format("woff2"), url(../front/subset-StemText-Regular.woff) format("woff")
+}
+
+@font-face {
+	font-family: Stem Text;
+	font-weight: 700;
+	font-display: swap;
+	src: url(../front/subset-StemText-Bold.woff2) format("woff2"), url(../front/subset-StemText-Bold.woff) format("woff")
+}
+
+@font-face {
+	font-family: Stem Light;
+	font-display: block;
+	src: url(../front/subset-Stem-Light.woff2) format("woff2"), url(../front/subset-Stem-Light.woff) format("woff")
+}
+
+@font-face {
+	font-family: Stem Text;
+	font-style: italic;
+	font-display: swap;
+	src: url(../front/subset-StemText-Italic.woff2) format("woff2"), url(../front/subset-StemText-Italic.woff) format("woff")
+}
+
+@font-face {
+	font-family: Stem Text;
+	font-weight: 700;
+	font-style: italic;
+	font-display: swap;
+	src: url(../front/subset-StemText-BoldItalic.woff2) format("woff2"), url(../front/subset-StemText-BoldItalic.woff) format("woff")
+}
+
+@font-face {
+	font-family: Stem Light;
+	font-style: italic;
+	font-display: block;
+	src: url(../front/subset-Stem-LightItalic.woff2) format("woff2"), url(../front/subset-Stem-LightItalic.woff) format("woff")
+}
+
+@font-face {
+	font-family: Stem Light;
+	font-weight: 700;
+	font-display: block;
+	src: url(../front/subset-Stem-Medium.woff2) format("woff2"), url(../front/subset-Stem-Medium.woff) format("woff")
+}
+
+@font-face {
+	font-family: Fira Code;
+	font-display: swap;
+	src: url(../front/subset-FiraCode-Regular.woff2) format("woff2"), url(../front/subset-FiraCode-Regular.woff) format("woff")
+}
