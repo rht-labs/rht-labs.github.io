@@ -14,3 +14,7 @@ Volkswagen Group engaged with the Red Hat Open Innovation Labs team through a 12
 <a href="https://www.youtube.com/watch?v=9t565ZZetFw" target="_blank"><img src="../images/volkswagen-group-case-study.png" alt="../images/volkswagen-group-case-study.png" /></a>
 
 📖 <a href="https://www.redhat.com/en/resources/volkswagen-group-case-study" target="_blank">_Read more about the case study_</a> 📖
+
+📽️ <a href="https://www.youtube.com/watch?v=98kIAzye8gc" target="_blank">_Watch VW talk about it at OpenShift Commons_</a> 📽️
+
+📖 <a href="https://www.redhat.com/en/resources/understanding-digital-twin-environments-detail" target="_blank">_Read About the Digital Twin Architecture_</a> 📖
