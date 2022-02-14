@@ -1,5 +1,10 @@
+---
+title: Contribution Guide
+---
 
 # Contribution Guide
+======================
+
 GitHub is designed around a particular collaboration workflow, centered on Pull Requests.
 This flow works whether you’re collaborating with a tightly-knit team in a single shared repository, or a globally-distributed company or network of strangers contributing to a project through dozens of forks.
 It is centered on the Topic Branches workflow covered in Git Branching.
