@@ -42,3 +42,4 @@ Meta
 ----
 
 -   [How to clone this site](how-to-copy.html)
+-   [Contribution Guide](contribution-guide.html)
