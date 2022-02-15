@@ -1,15 +1,16 @@
 ---
 title: Contribution Guide
 prev_section: how-to-copy.html
-next_section: 
+next_section:  index.html
 ---
 
-# Contribution Guide
+Contribution Guide
 ======================
 
+> We use the popular [GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow) for collaborating on this repo.
+
 GitHub is designed around a particular collaboration workflow, centered on Pull Requests.
-This flow works whether you’re collaborating with a tightly-knit team in a single shared repository, or a globally-distributed company or network of strangers contributing to a project through dozens of forks.
-It is centered on the Topic Branches workflow covered in Git Branching.
+This flow works whether you’re collaborating with a tightly-knit team in a single shared repository, or a globally-distributed company or network of strangers contributing to a project through dozens of forks. It is centered on the Topic Branches workflow covered in Git Branching.
 
 Here’s how it generally works:
 
