@@ -18,7 +18,7 @@ Open Innovation Labs provides internal capability and enablement to evolve the w
 - DevOps Culture and Practice Enablement
 - Open Leadership training and coaching
 - Site Reliability Engineering enablement
-- Maintenance of the platform tools including the [Open Practice Library](https://openpracticelibrary.com), [Lodestar](https://lodestar.rht-labs.com) and [Ubiquitous Journey](http://rht-labs.com/ubiquitous-journey)
+- Maintenance of the platform tools including the [Open Practice Library](https://openpracticelibrary.com), [LodeStar](https://lodestar.rht-labs.com) and [Ubiquitous Journey](http://rht-labs.com/ubiquitous-journey)
 - Contributing to and supporting Red Hat's Communities of Practice
 - Running experiments to improve delivery capability
 - Providing internal strategy consultants
