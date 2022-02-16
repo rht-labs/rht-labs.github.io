@@ -1,7 +1,9 @@
 - title: Driving principles
   docs:
   - what-is-rh-open-innovation-labs.html
-  - how-roil-works.html
+  - how-we-work.html
+  - labs-principles.html
+  - what-we-do.html
 
 - title: Core structure and practices
   docs:
@@ -14,3 +16,4 @@
 - title: Meta
   docs:
   - how-to-copy.html
+  - contribution-guide.html

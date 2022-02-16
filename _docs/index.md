@@ -13,13 +13,16 @@ We have `very kindly` based our website on the `awesome` [CRISP DNA](https://git
 Contents
 ========
 
-Driving principles
+What Drives Us?
 ------------------
 
-(these principles drive almost everything at Innovation Labs)
+(these aspects drive almost everything at Innovation Labs)
 
 -   [What is Red Hat Open Innovation Labs](what-is-rh-open-innovation-labs.html) - our purpose.
--   [How Red Hat Open Innovation Labs works](how-roil-works.html) - summary of our model, and some driving principles.
+-   [How Red Hat Open Innovation Labs works](how-we-work.html) - summary of our model and strategic vision.
+-   [Core Principles](labs-principles.html) - key principles we follow as a team to deliver value
+-   [What we do](what-we-do.html) - what we do with our customers and inside Red Hat
+
 
 Core structure and practices
 ----------------------------
@@ -39,3 +42,4 @@ Meta
 ----
 
 -   [How to clone this site](how-to-copy.html)
+-   [Contribution Guide](contribution-guide.html)

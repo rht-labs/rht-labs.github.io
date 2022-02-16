@@ -1,7 +1,7 @@
 ---
 title: "How to clone this"
 prev_section: product-mindset.html
-next_section: 
+next_section: contribution-guide.html
 ---
 
 How to clone this
