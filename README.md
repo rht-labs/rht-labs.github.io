@@ -11,7 +11,7 @@ Here's [how to install GIT](http://git-scm.com/book/en/v2/Getting-Started-Instal
 Tell git to download the rht-labs.github.io source:
 
 ```bash
-git clone https://github.com/rht-labs/rht-labs.github.io
+git clone git@github.com:rht-labs/rht-labs.github.io.git
 cd rht-labs.github.io
 ```
 
@@ -60,7 +60,7 @@ Change your directory to this repository, and install the ruby environment - `rb
 rbenv install
 ```
 
-## 3. Install Jekyll and related tools
+## 4. Install Jekyll and related tools
 
 Next, tell the bundler to install all the gems needed (jekyll, github-pages, etc). They are listed in Gemfile in case you are curious.
 
@@ -76,7 +76,7 @@ bundle update
 
 Congrats! You got the stuff you need. You should now be ready to....
 
-## 4. Run the site locally!
+## 5. Run the site locally!
 
 Tell Jekyll to generate the site and serve it up:
 
