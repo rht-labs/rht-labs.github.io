@@ -8,18 +8,37 @@ Here's [how to install GIT](http://git-scm.com/book/en/v2/Getting-Started-Instal
 
 ## 2. Clone this repo
 
+You can choose to close this repo in two ways - **a)** using the upstream repo in read-only mode, or **b)** using a fork for full read/write access. Both methods are described below, but pick the one that fits your needs - if you are planning to submit contributions and PRs, make sure to use option **b)**.
+
+### a. Using the upstream repo in read-only mode
+
 Tell git to download the rht-labs.github.io source:
 
 ```bash
-git clone https://github.com/rht-labs/rht-labs.github.io
+git clone https://github.com:rht-labs/rht-labs.github.io.git
 cd rht-labs.github.io
 ```
 
-You should now have the whole thing, including the README.md file that you are reading right now!
+### b. Using a fork for full read/write access
+
+First, if you do not already have a github.com account, create one by [Signing up for a new GitHub Account](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account), then follow the [Adding a new SSH key to your GitHub acount](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) instructions to enable SSH access to your account. Next, follow the [Forking a repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) instructions to create a fork of the upstream repo into your personal account. Lastly, follow the below instructions to clone the forked repo to your local laptop/device:
+
+Tell git to download the rht-labs.github.io source from your fork - **make sure to replace _"my-username"_** with your github.com username:
+
+```bash
+export MY_GH_USERNAME=my-username
+git clone git@github.com:${MY_GH_USERNAME}/rht-labs.github.io.git rht-labs.github.io.${MY_GH_USERNAME}
+cd rht-labs.github.io.${MY_GH_USERNAME}
+```
+
+
+## 3. Working locally
+
+You should now have the whole thing available locally on your laptop/device, including the README.md file that you are reading right now!
 
 The web site source files are under `_docs`, have a look! They are written using [markdown](https://guides.github.com/features/mastering-markdown/) (a simpler format than html). When you push to github, it will automatically convert the pages to static html and build the site https://rht-labs.com/
 
-## 3. Setup your Ruby Environment
+## 4. Setup your Ruby Environment
 
 First install Ruby if you don't already have it e.g.
 
@@ -60,7 +79,7 @@ Change your directory to this repository, and install the ruby environment - `rb
 rbenv install
 ```
 
-## 3. Install Jekyll and related tools
+## 5. Install Jekyll and related tools
 
 Next, tell the bundler to install all the gems needed (jekyll, github-pages, etc). They are listed in Gemfile in case you are curious.
 
@@ -76,7 +95,7 @@ bundle update
 
 Congrats! You got the stuff you need. You should now be ready to....
 
-## 4. Run the site locally!
+## 6. Run the site locally!
 
 Tell Jekyll to generate the site and serve it up:
 
