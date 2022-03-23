@@ -13,7 +13,7 @@ We have `very kindly` based our website on the `awesome` [CRISP DNA](https://git
 Contents
 ========
 
-What Drives Us?
+What drives us?
 ------------------
 
 (these aspects drive almost everything at Innovation Labs)
