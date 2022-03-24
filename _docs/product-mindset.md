@@ -30,7 +30,7 @@ When shifting to a product mindset, team structures must change. It is often nec
 
 We see the Platform as a Product, so in many ways they are a Stream Aligned Team as well - with Developers and Delivery teams as customers.
 
-Within Red Hat Open Innovation Labs we have organised around this model. We have a Platform/SRE team that enables self service capabilities for our regionally aligned product delivery teams. We have a globally distributed enabling team that works to deliver consistent tools and ways of working for across our business.
+Within Red Hat Open Innovation Labs we have organised around this model. We have a Platform/SRE team that enables self service capabilities for our regionally aligned product delivery teams. We have a globally distributed enabling team that works to deliver consistent tools and ways of working across our business.
 
 One of our most important products - is the way we use all of our [practices](https://openpracticelibrary.com/) ourselves to grow a product mentality for our business.
 
