@@ -24,7 +24,6 @@ What drives us?
 -   [Core Principles](labs-principles.html) - key principles we follow as a team to deliver value
 -   [What we do](what-we-do.html) - what we do with our customers and inside Red Hat
 
-
 Core structure and practices
 ----------------------------
 
@@ -37,10 +36,10 @@ Supporting practices
 
 (relevant stuff, but not core to our model)
 
--   [The Product Mindset](product-mindset.html) - how we use the product mentality to grow our business
+-   [The product mindset](product-mindset.html) - how we use the product mentality to grow our business
 
 Meta
 ----
 
 -   [How to clone this site](how-to-copy.html)
--   [Contribution Guide](contribution-guide.html)
+-   [Contribution guide](contribution-guide.html)
