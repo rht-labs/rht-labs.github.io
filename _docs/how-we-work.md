@@ -1,6 +1,6 @@
 ---
 title: How Red Hat Open Innovation Labs works
-prev_section: what-is-rh-open-innovation-labs.html
+prev_section: how-we-differentiate.html
 next_section: labs-principles.html
 ---
 
