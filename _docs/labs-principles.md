@@ -7,7 +7,7 @@ next_section: what-we-do.html
 What are our Principles?
 ===========
 
-At the core of how we deliver value are six principles we strive to embody. 
+At the core of how we deliver value are eight principles we strive to embody.
 -  [Be Open](#be-open)
 -  [Customer Needs First](#customer-needs)
 -  [Embrace Complexity](#embrace-complexity)
