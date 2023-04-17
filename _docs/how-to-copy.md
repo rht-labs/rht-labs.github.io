@@ -1,6 +1,6 @@
 ---
 title: "How to clone this"
-prev_section: product-mindset.html
+prev_section: infographic.html
 next_section: contribution-guide.html
 ---
 
