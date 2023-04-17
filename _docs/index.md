@@ -37,6 +37,7 @@ Supporting practices
 (relevant stuff, but not core to our model)
 
 -   [The product mindset](product-mindset.html) - how we use the product mentality to grow our business
+-   [Tech Stack Infographic](infographic.html) - design your own engagement-ready technology stack
 
 Meta
 ----

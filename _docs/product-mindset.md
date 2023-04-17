@@ -1,7 +1,7 @@
 ---
 title: The Product Mindset
 prev_section: happiness-index.html
-next_section: how-to-copy.html
+next_section: infographic.html
 ---
 
 The Product Mindset
